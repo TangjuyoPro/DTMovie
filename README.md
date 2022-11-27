@@ -14,7 +14,7 @@ Filtres de films :
 **ENGLISH**
 
 DTMovie is an application that allows you to search for films, see their summaries and ratings by users.
-The application is available in English only.
+The application is available in French only.
 
 Filter :
   - Gender
